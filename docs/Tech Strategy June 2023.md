@@ -11,7 +11,7 @@ We know that this will be a difficult and challenging time for all but everyone 
 Initially we should aim at keeping changes to a minimum in order to maintain a level of calmness and stability during these tough times. 
 
 To which we will look at having the following setup.
-![[Pasted image 20230517102120.png]]
+![[img/Pasted image 20230517102120.png]]
 (still under construction)
 
 However with the lost of talent we collectively will be required to cover various areas and responsibilities that go beyond our typical boundaries of team ownership. This may include tech leads forming small lived working groups to address objectives that can have a direct impact on our profitability.
