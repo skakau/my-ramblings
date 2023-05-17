@@ -1,0 +1,13 @@
+---
+share: true
+---
+- [ ] [Wardley map](https://www.bmc.com/blogs/wardley-value-chain-mapping/)
+- [ ] [N+1](https://vladmihalcea.com/n-plus-1-query-problem/)
+- [ ] [Pattern: Transactional outbox](https://microservices.io/patterns/data/transactional-outbox.html)
+- [ ] [ADR](https://adr.github.io/madr/)
+- [ ] Radical Candor
+- [ ] [Triple Diamond](https://docs.google.com/presentation/d/1AiqpQR6qECOdLl8zb1rDVLtRQm_uF5-vOmWaYL0fecY/edit#slide=id.ga737ee11a0_0_0)
+- [ ] [Software Engineering at Google](https://abseil.io/resources/swe-book/html/pr01.html#programming_over_time)
+- [ ] [Conways Law](https://en.wikipedia.org/wiki/Conway%27s_law)
+- [ ] [Managers Path](https://www.oreilly.com/library/view/the-managers-path/9781491973882/)
+- [ ] Genius Makers: [link](https://www.amazon.com/Genius-Makers-Mavericks-Brought-Facebook/dp/1524742678)
