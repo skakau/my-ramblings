@@ -1,4 +1,10 @@
-[[2023-05-16]]
+---
+share: true
+---
+[2023-05-17](2023-05-17.md#)
+
+## Preface
+These are my opinions only.
 
 ## Introduction
 With the reduction in roles we will have a tough and challenging time ahead of us within the tech organisation. A lot of experience and knowledge of different domains, markets and responsibilities will need to be covered and filled. We understand that many people will have not only lost colleagues  but also friends and mentors.
@@ -11,7 +17,6 @@ We know that this will be a difficult and challenging time for all but everyone 
 Initially we should aim at keeping changes to a minimum in order to maintain a level of calmness and stability during these tough times. 
 
 To which we will look at having the following setup.
-![[img/orgMap2023.png]]
 (still under construction)
 
 However with the lost of talent we collectively will be required to cover various areas and responsibilities that go beyond our typical boundaries of team ownership. This may include tech leads forming small lived working groups to address objectives that can have a direct impact on our profitability.
