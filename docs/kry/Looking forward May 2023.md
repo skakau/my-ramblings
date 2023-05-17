@@ -28,7 +28,7 @@ Another proposal that is under consideration could be having on-call teams for t
 However above all we must aim at maintaining some form of stability with clear focus and goals but it must not come at the sacrifice of being being agile, forming, moving and acting quickly on initiatives that we identify as important to our success.  
   
 ## Communication  
-In order to minimise miss communication or the need to monitor and cover multiple channels regarding news, updates, releases, bugs, questions, etc we should look archiving various channels.   
+In order to minimise miss communication or the need to monitor and cover multiple channels regarding news, updates, releases, bugs, questions, etc we should look at archiving various channels.   
   
 For example: using the dev channel for all comms and archiving dev-important, dev-release, dev-announcements.  
   
