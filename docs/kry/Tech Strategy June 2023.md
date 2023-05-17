@@ -25,7 +25,8 @@ For example: Tech lead investigates, plans and forms a small working group that 
   
 Another proposal that is under consideration could be having on-call teams for the week monitoring the domain channels to support with bugs and questions. This could allow the teams to remain focussed on the weeks goals and removing the need to context switch between development and support and at the same time on-call working on improving low hanging fruit, stabilising services, removing old services, addressing DD alerts/monitors and general service maintenance.  
   
-However above all we must aim at maintaining some form of stability with clear focus and goals but it must not come at the sacrifice of being being agile, forming, moving and acting quickly on initiatives that we identify as important to our success.  
+
+However above all we must aim at maintaining some form of stability with clear focus and goals but it must not come at the sacrifice of being being agile, forming, moving and acting quickly on initiatives that we identify as important to our success.
   
 ## Communication  
 In order to minimise miss communication or the need to monitor and cover multiple channels regarding news, updates, releases, bugs, questions, etc we should look archiving various channels.   
