@@ -4,7 +4,7 @@ share: true
 [2023-05-17](2023-05-17.md#)
 
 ## Preface
-These are my opinions only.
+These are my opinions only. Additionally this is just my current reflections on things and by no means set in stone or well thought out 😀
 
 ## Introduction
 With the reduction in roles we will have a tough and challenging time ahead of us within the tech organisation. A lot of experience and knowledge of different domains, markets and responsibilities will need to be covered and filled. We understand that many people will have not only lost colleagues  but also friends and mentors.
