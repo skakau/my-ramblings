@@ -21,18 +21,18 @@ To which we will look at having the following setup.
 (still under construction)  
   
 However with the lost of talent we collectively will be required to cover various areas and responsibilities that go beyond our typical boundaries of team ownership. This may include tech leads forming small lived working groups to address objectives that can have a direct impact on our profitability.  
-For example: Tech lead investigates, prepares plan, forms small working group that aims at removing Contentful. Or tech lead forms a small group of 2-3 from various domains and starts shutting down test-envs and so on.  
+For example: Tech lead investigates, plans and forms a small working group that aims at removing Contentful. Or tech lead forms a small group of 2-3 people from various areas and starts shutting down test-envs and so on.  
   
 Another proposal that is under consideration could be having on-call teams for the week monitoring the domain channels to support with bugs and questions. This could allow the teams to remain focussed on the weeks goals and removing the need to context switch between development and support and at the same time on-call working on improving low hanging fruit, stabilising services, removing old services, addressing DD alerts/monitors and general service maintenance.  
   
-However we aim at maintaining some form of stability with clear focus and goals for the domain as a whole but we also need to be agile, form, move and act quickly on initiatives that we identify as quick wins to insure our success.  
+However above all we must aim at maintaining some form of stability with clear focus and goals but it must not come at the sacrifice of being being agile, forming, moving and acting quickly on initiatives that we identify as important to our success.  
   
 ## Communication  
-In order to minimise miss communication or the need to monitor and cover multiple channels regarding news, updates, releases, bugs, questions, etc we will look archiving various channels.   
+In order to minimise miss communication or the need to monitor and cover multiple channels regarding news, updates, releases, bugs, questions, etc we should look archiving various channels.   
   
 For example: using the dev channel for all comms and archiving dev-important, dev-release, dev-announcements.  
   
-We will still encourage teams to have the own team channel for internal comms but look at having domain channels in which various stakeholders can post to in order to feel like they have somewhere to post a question and to avoid people from searching or guessing about to post questions.  
+We will still encourage teams to have the own team channel for internal comms but look at having domain channels in which various stakeholders can post to in order to feel like they have somewhere to post a question and to avoid people searching or guessing about where to post a question.  
   
 ## Goals and Objectives  
 Information regarding the roadmap for the Q3 and prioritise: TBD  
