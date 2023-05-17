@@ -1,4 +1,6 @@
-site_name: My Thoughts
+site_name: User Manual For Me
+site_description: Just a place to share my thoughts
+site_url: https://skakau.github.io/my-ramblings/
 
 theme:
     name: 'material'
