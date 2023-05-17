@@ -21,7 +21,7 @@ To which we will look at having the following setup.
 (still under construction)  
   
 However with the lost of talent we collectively will be required to cover various areas and responsibilities that go beyond our typical boundaries of team ownership. This may include tech leads forming small lived working groups to address objectives that can have a direct impact on our profitability.  
-For example: Tech lead investigates, plans and forms a small working group that aims at removing Contentful. Or tech lead forms a small group of 2-3 people from various areas and starts shutting down test-envs and so on.  
+For example: Tech lead investigates, plans and forms a small working group that aims at removing Contentful. Or tech lead forms a small group of 2-3 people from various areas and starts shutting down `test-envs` and so on.  
   
 Another proposal that is under consideration could be having on-call teams for the week monitoring the domain channels to support with bugs and questions. This could allow the teams to remain focussed on the weeks goals and removing the need to context switch between development and support and at the same time on-call working on improving low hanging fruit, stabilising services, removing old services, addressing DD alerts/monitors and general service maintenance.  
   
