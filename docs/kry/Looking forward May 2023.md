@@ -28,11 +28,11 @@ Another proposal that is under consideration could be having on-call teams for t
 However above all we must aim at maintaining some form of stability with clear focus and goals but it must not come at the sacrifice of being being agile, forming, moving and acting quickly on initiatives that we identify as important to our success.  
   
 ## Communication  
-In order to minimise miss communication or the need to monitor and cover multiple channels regarding news, updates, releases, bugs, questions, etc we should look archiving various channels.   
+In order to minimise miss communication or the need to monitor and cover multiple channels regarding news, updates, releases, bugs, questions, etc we should look at archiving various channels.   
   
 For example: using the dev channel for all comms and archiving dev-important, dev-release, dev-announcements.  
   
-We will still encourage teams to have the own team channel for internal comms but look at having domain channels in which various stakeholders can post to in order to feel like they have somewhere to post a question and to avoid people searching or guessing about where to post a question.  
+We would like to still encourage teams to have the own team channel for internal comms but look at having domain channels in which various stakeholders can post to in order to feel like they have somewhere to post a question and to avoid people searching or guessing about where to post a question.  
   
 ## Goals and Objectives  
 Information regarding the roadmap for the Q3 and prioritise: TBD  
