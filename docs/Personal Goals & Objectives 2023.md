@@ -6,7 +6,6 @@ This needs to be better formatted and structured but for now here are some bulle
   
 - Area lead.  
 - Leading, driving and representing STH based tech objectives  
-- Champion two initiatives that directly impacted bottom line  
+- Champion two initiatives that directly impact the bottom line  
 - Work with IC to set goals and objectives  
-- Get NLL into production  
-- 
+- Get NLL into production
