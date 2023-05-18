@@ -28,11 +28,11 @@ Fr: 08:00 - 15:00
 **NB:** Every second week (Thur-Thur) I have the kids, which means some days may end sooner (due to after school activities and the like). I can be reached via my preferred communication channels but response times may vary. These out of office times will be reflected in my calendar.  
   
 ## My Communication Channel preferences  
-![50x50](./img/Pasted%20image%2020230518094750.png#) Slack is my preferred tool of communication and is where you will most likely get a response from me. Recommend, 10/10.  
+![Pasted image 20230518094750.png](./img/Pasted%20image%2020230518094750.png#) Slack is my preferred tool of communication and is where you will most likely get a response from me. Recommend, 10/10.  
   
 Please note that due to above working times I may respond/send slack messages out of office hours. I do not expect replies and want to respect your time as well, its just this is when I sometimes prefer to catch up on conversations.  
   
-![50x50](./img/Pasted%20image%2020230518094931.png#) Email is where communication goes to die and never been seen or read. Do not recommend, 1/10  
+![Pasted image 20230518094931.png](./img/Pasted%20image%2020230518094931.png#) Email is where communication goes to die and never been seen or read. Do not recommend, 1/10  
   
 ## Preferred working conditions  
 While at home, anything goes and I like my setup. This is my safe place. I also have a cat which you will hear screaming in the background from time-to-time. I apologise in advance for this.  
