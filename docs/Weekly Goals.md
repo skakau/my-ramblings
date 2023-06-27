@@ -19,4 +19,17 @@ share: true
 - Begin reaching out to new reports  
 - Write some code  
   
+**Reflection on week**  
+Was able to work with a bit regarding the NLL db encryption and understand some more about kms keys work, which was nice. But I think the complexity of running this service in Elastx made it harder to grab a simple concept (such as KMS) because of we "connect" to AWS accounts from Elastx and thus the privileges required to read such keys.  
+  
+Teams were introduced got some feedback regarding UX writers which was an unintentional mistake on my behalf, also left Karl off the picture. Sorry Karl.  
+  
+Still haven't booked meetings, but plan on starting this next week.  
+  
+## W26 June 26 - June 30 2023  
+**Goals**  
+- Kick off with new Encounters team  
+- Learn a bit more about AS  
+- Discuss with CAM team about future  
+  
 **Reflection on week**
