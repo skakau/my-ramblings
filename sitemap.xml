@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://skakau.github.io/my-ramblings/</loc>
+         <lastmod>2023-07-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://skakau.github.io/my-ramblings/My%20User%20Manual/</loc>
+         <lastmod>2023-07-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://skakau.github.io/my-ramblings/Personal%20Goals%20%26%20Objectives%202023/</loc>
+         <lastmod>2023-07-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://skakau.github.io/my-ramblings/Reading%20list/</loc>
+         <lastmod>2023-07-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://skakau.github.io/my-ramblings/Weekly%20Goals/</loc>
+         <lastmod>2023-07-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
