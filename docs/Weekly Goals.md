@@ -32,4 +32,15 @@ Still haven't booked meetings, but plan on starting this next week.
 - Learn a bit more about AS  
 - Discuss with CAM team about future  
   
+**Reflection on week**  
+Some good discussions for Encounters team, which is now called team-clinician-core. Still going through with each persons "old teams" backlog to identify what the new team will own and work with. Also had a team workshop working the Miro board to identify new opportunities, together with these tasks and old one we hope to build a roadmap.  
+  
+Booked some meetings/workshops for CAM team after a few private discussions with the team about roadmap and objective of the team.  
+  
+## W27 July 03 - July 07 2023  
+**Goals**  
+- Present some new ideas to CAM for work streams  
+- Map out current responsibilities according to career matrix  
+- Meet new teams  
+  
 **Reflection on week**
