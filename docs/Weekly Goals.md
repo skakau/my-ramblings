@@ -42,5 +42,7 @@ Booked some meetings/workshops for CAM team after a few private discussions with
 - Present some new ideas to CAM for work streams  
 - Map out current responsibilities according to career matrix  
 - Meet new teams  
+- Finish processing all old backlogs from disfunct teams  
+- Start formulating a plan for CP 1 migration to be presented to tech group  
   
 **Reflection on week**
