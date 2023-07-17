@@ -45,4 +45,23 @@ Booked some meetings/workshops for CAM team after a few private discussions with
 - Finish processing all old backlogs from disfunct teams  
 - Start formulating a plan for CP 1 migration to be presented to tech group  
   
+**Reflection on week**  
+Finally met everyone and then at the same time cancelled all 1:1s. Looking at coming up with a new WoW for after the summer.  
+  
+Spent some time going through Clinician Core miro board to answer any open questions about work identified as ideal for the team to work on. This meant refining cost/effort benefits, impact on P/L etc.  
+  
+Started formalising how we want to present our business case for why we want to continue CP1 migration work. Not sure of the best strategy yet, maybe an ADR. Will bring it up more in following meetings with tech management.  
+  
+Started working on my career matrix to define what I actually do and areas to improve on.  
+  
+## W28 July 10 - July 14 2023  
+On 🌴  
+  
+## W29 July 17 - July 21 2023  
+**Goals**  
+- Probably spend most of the week catching on last week  
+- I have a lot of Workday tasks outstanding, so theres that  
+- Prepare for off boarding/exit interviews.  
+- Prepare for vacation of w30 and w31. ie Making sure everyone has everything they need.  
+  
 **Reflection on week**
