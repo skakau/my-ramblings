@@ -1,17 +1,57 @@
 ---  
 share: true  
 ---  
-## W24: June 12 - June 16 2023  
+## W35 August 28 - September 1 2023  
 **Goals**  
-- Prepare vision and alignment for CAM ✅  
-- Start booking reoccurring 1:1's ✅  
-- Start team-medication handover with Sandra ✅  
+- Prep for team day  
+- Draft plan for merging of Pat Eng and Web Infra  
+- Catch up with CAM to get feedback on how things are going now they are merged with Blackbeards.  
   
 **Reflection on week**  
-- Week went well, was able to have some productive meetings at the beginning which set the stage for the rest of the week and provide clarity on dependant meetings.  
-- Team work still ongoing but starting to see the need from teams for kick offs.  
-- Was able to take a decision on the future of ML and the work needed to get live and operational in prod. Sadly we decided to park this initiative due to the work required from other teams and no real obvious improvements.  
-- TakeCare Cal integration work still on-going. Could this be the rebirth of project hydra???  
+  
+  
+## W34 August 21 - August 25 2023  
+First week back after vacation.  
+**Goals**  
+- Catch up on comms  
+- Schedule team day  
+- Book meetings for next week based on actions identified after "catching up"  
+  
+**Reflection on week**  
+- Caught on most things, next week will be crazy.  
+- Team scheduled ✅  
+- Time got drawn into more team restructures i.e, CAM, Pat Eng and Web Infra team(s)  
+  
+## W30 - W33  
+On 🌴  
+  
+## W29 July 17 - July 21 2023  
+**Goals**  
+- Probably spend most of the week catching on last week  
+- I have a lot of Workday tasks outstanding, so theres that  
+- Prepare for off boarding/exit interviews.  
+- Prepare for vacation of w30 and w31. ie Making sure everyone has everything they need.  
+  
+**Reflection on week**  
+Week was productive, spent some time doing off boarding and Workday tasks. Not the funnest thing but needed.  
+  
+Starting to work with the idea of needing to formulate what we want to do from the bottom up to fix / unlock opportunities from a tech strategy perspective.  
+  
+Another goal that has been identified for me and that I feel is important is restoring the RnD culture. This is important to build back up the community feeling and a sense of togetherness.  
+  
+## W28 July 10 - July 14 2023  
+On 🌴  
+  
+## W26 June 26 - June 30 2023  
+**Goals**  
+- Kick off with new Encounters team  
+- Learn a bit more about AS  
+- Discuss with CAM team about future  
+  
+**Reflection on week**  
+Some good discussions for Encounters team, which is now called team-clinician-core. Still going through with each persons "old teams" backlog to identify what the new team will own and work with. Also had a team workshop working the Miro board to identify new opportunities, together with these tasks and old one we hope to build a roadmap.  
+  
+Booked some meetings/workshops for CAM team after a few private discussions with the team about roadmap and objective of the team.  
   
 ## W25 June 19 - June 23 2023  
 **Goals**  
@@ -26,16 +66,21 @@ Teams were introduced got some feedback regarding UX writers which was an uninte
   
 Still haven't booked meetings, but plan on starting this next week.  
   
-## W26 June 26 - June 30 2023  
+## W24: June 12 - June 16 2023  
 **Goals**  
-- Kick off with new Encounters team  
-- Learn a bit more about AS  
-- Discuss with CAM team about future  
+- Prepare vision and alignment for CAM ✅  
+- Start booking reoccurring 1:1's ✅  
+- Start team-medication handover with Sandra ✅  
   
 **Reflection on week**  
-Some good discussions for Encounters team, which is now called team-clinician-core. Still going through with each persons "old teams" backlog to identify what the new team will own and work with. Also had a team workshop working the Miro board to identify new opportunities, together with these tasks and old one we hope to build a roadmap.  
+- Week went well, was able to have some productive meetings at the beginning which set the stage for the rest of the week and provide clarity on dependant meetings.  
+- Team work still ongoing but starting to see the need from teams for kick offs.  
+- Was able to take a decision on the future of ML and the work needed to get live and operational in prod. Sadly we decided to park this initiative due to the work required from other teams and no real obvious improvements.  
+- TakeCare Cal integration work still on-going. Could this be the rebirth of project hydra???  
   
-Booked some meetings/workshops for CAM team after a few private discussions with the team about roadmap and objective of the team.  
+  
+  
+  
   
 ## W27 July 03 - July 07 2023  
 **Goals**  
@@ -54,14 +99,5 @@ Started formalising how we want to present our business case for why we want to 
   
 Started working on my career matrix to define what I actually do and areas to improve on.  
   
-## W28 July 10 - July 14 2023  
-On 🌴  
   
-## W29 July 17 - July 21 2023  
-**Goals**  
-- Probably spend most of the week catching on last week  
-- I have a lot of Workday tasks outstanding, so theres that  
-- Prepare for off boarding/exit interviews.  
-- Prepare for vacation of w30 and w31. ie Making sure everyone has everything they need.  
   
-**Reflection on week**
