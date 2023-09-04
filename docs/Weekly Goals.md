@@ -1,6 +1,16 @@
 ---  
 share: true  
 ---  
+## W36 September 04 2023 - September 08 2023  
+**Goals**  
+- Team workshop days for Pat Eng and Web Infra  
+- Allocate additional "focus time" on learning more about Cava and Appt domain (due to Moses going on parental leave).  
+- Work with Blackbeard devs on planning tech roadmap for their domain.  
+  
+**Reflection on week**  
+  
+  
+  
 ## W35 August 28 - September 1 2023  
 **Goals**  
 - Prep for team day  
