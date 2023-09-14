@@ -1,7 +1,7 @@
 ---  
 share: true  
 ---  
-This needs to be better formatted and structured but for now here are some bullet points that you will want to come back to and refine, but also be concise of.  
+This needs to be better formatted, structured and refined but for now here are some of your thoughts...  
   
   
 - Area lead.  
