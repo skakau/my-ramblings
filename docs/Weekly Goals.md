@@ -1,6 +1,17 @@
 ---  
 share: true  
 ---  
+## W37 September 11 - September 15 2023  
+**Goals**  
+- Continue to work closely with Blackbeards while PM is on-boarded  
+- Understand background to Easy Checkin  
+- Deep dive into Web Infra WoW.  
+- Help out as Goalie for Blackbeards  
+- Find a way to move project Hydra forward.  
+  
+**Reflection on week**  
+  
+  
 ## W36 September 04 - September 08 2023  
 **Goals**  
 - Team workshop days for Pat Eng and Web Infra  
