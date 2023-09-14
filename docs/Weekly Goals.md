@@ -20,7 +20,9 @@ share: true
 - Goalie for Blackbeards  
   
 **Reflection on week**  
+Was a good week actually. Was involved in more technical discussions (its been a minute). Reminded me how much I enjoy that "side" of my role. Made a mental note to myself to try and steer the ship more in that direction going forward (the ship being my work)  
   
+I am excited about the rebirth of project Hydra and with a few tweaks to the plan (i.e proper milestones, deliverables) I think we can get this moving forward. However since we are driving this from a tech improvement angle its the devs opinion that probably holds the most weight it "next steps"   
   
   
 ## W35 August 28 - September 1 2023  
@@ -30,6 +32,9 @@ share: true
 - Catch up with CAM to get feedback on how things are going now they are merged with Blackbeards.  
   
 **Reflection on week**  
+Still spent a lot of time on 1:1s as I continue to catch up with people. Team day for CC and 🏴‍☠️ was great, had a lot of fun and it was good to see so many people in the office. We didn't exactly get to do the work we had planned out (i.e WoW) but it was great to hear peoples stories during the ice-breaker exercises as well as the fun we had during the team battles.  
+  
+Need to keep this a regular thing!!  
   
   
 ## W34 August 21 - August 25 2023  
