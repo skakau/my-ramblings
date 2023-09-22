@@ -1,6 +1,17 @@
 ---  
 share: true  
 ---  
+## W38 September 18 - September 22 2023  
+**Goals**  
+- Follow up on actions from Blackbeards retro  
+- Look into Claires FR prescription request  
+- AS for Nurses and understanding priority (against Break start)  
+- Understand flexi-start for Vitality  
+- Support AI roll out  
+  
+**Reflection on week**  
+  
+  
 ## W37 September 11 - September 15 2023  
 **Goals**  
 - Continue to work closely with Blackbeards while PM is on-boarded  
