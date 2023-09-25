@@ -1,6 +1,15 @@
 ---  
 share: true  
 ---  
+## ## W39 September 25 - September 29 2023  
+**Goals**  
+- Begin investigation in clinician idle time in UK  
+- Catch up on 1:1's  
+- More team attending web-infra DS  
+  
+**Reflection on week**  
+  
+  
 ## W38 September 18 - September 22 2023  
 **Goals**  
 - Follow up on actions from Blackbeards retro  
