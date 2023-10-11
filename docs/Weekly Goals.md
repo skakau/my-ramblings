@@ -1,11 +1,31 @@
 ---  
 share: true  
 ---  
-## ## W39 September 25 - September 29 2023  
+  
+## W41 October 09 - October 13 2023  
+**Goals**   
+- Catch up on 1:1s after being away sick  
+- Understand the problems web-infra experience with Stakeholders and identify ways to help  
+- Continue work on skills workshop  
+- Follow up on Notion migration  
+  
+**Reflection on week**  
+  
+  
+## W40 October 02 - October 06 2023  
+**Goals**   
+- Was sick 😔  
+  
+**Reflection on week**  
+  
+  
+## W39 September 25 - September 29 2023  
 **Goals**  
 - Begin investigation in clinician idle time in UK  
 - Catch up on 1:1's  
 - More team attending web-infra DS  
+  
+This will be a short week for me as I am taking some personal leave to visit some friends Thur-Mon  
   
 **Reflection on week**  
   
