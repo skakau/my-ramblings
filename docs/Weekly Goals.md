@@ -2,6 +2,14 @@
 share: true  
 ---  
   
+## W42 October 16 - October 20 2023  
+**Goals**   
+- Notion migration  
+- Map out Clinician Core roadmap, including tech initiatives   
+  
+**Reflection on week**  
+  
+  
 ## W41 October 09 - October 13 2023  
 **Goals**   
 - Catch up on 1:1s after being away sick  
