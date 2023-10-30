@@ -13,6 +13,7 @@ share: true
 ## W43 October 23 - October 27 2023  
 **Goals**   
 - 1:1 week  
+- Rollout more changes to UK slot length  
   
 **Reflection on week**  
   
