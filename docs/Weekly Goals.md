@@ -2,10 +2,26 @@
 share: true  
 ---  
   
+## W44 October 30 - November 03 2023  
+**Goals**   
+- Continue migrating Notion pages  
+- Ensure teams are taking time/space to plan tech debt improvements  
+  
+**Reflection on week**  
+  
+  
+## W43 October 23 - October 27 2023  
+**Goals**   
+- 1:1 week  
+  
+**Reflection on week**  
+  
+  
+  
 ## W42 October 16 - October 20 2023  
 **Goals**   
 - Notion migration  
-- Map out Clinician Core roadmap, including tech initiatives   
+- Map out Clinician Core roadmap, including tech initiatives  
   
 **Reflection on week**  
   
