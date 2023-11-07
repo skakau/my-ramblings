@@ -7,6 +7,7 @@ share: true
 - Kick off skill matrix workshops  
 - Pick a tech debt and fix it  
 - Find out how CC can contribute to !EMR project, maybe Labs?  
+- Sync with Chris about anything before he goes on 🌴  
   
 **Reflection on week**  
   
