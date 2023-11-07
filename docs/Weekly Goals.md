@@ -2,6 +2,15 @@
 share: true  
 ---  
   
+## W45 November 06 - November 10 2023  
+**Goals**   
+- Kick off skill matrix workshops  
+- Pick a tech debt and fix it  
+- Find out how CC can contribute to !EMR project, maybe Labs?  
+  
+**Reflection on week**  
+  
+  
 ## W44 October 30 - November 03 2023  
 **Goals**   
 - Continue migrating Notion pages  
