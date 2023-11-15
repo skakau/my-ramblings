@@ -2,6 +2,15 @@
 share: true  
 ---  
   
+## W46 November 13 - November 17 2023  
+**Goals**   
+- Review 2024 roadmaps  
+- Look into habit tracker for reviewing bugs and tech debt in CAVA  
+- Book knowledge sharing session around careleveller  
+  
+**Reflection on week**  
+  
+  
 ## W45 November 06 - November 10 2023  
 **Goals**   
 - Kick off skill matrix workshops  
