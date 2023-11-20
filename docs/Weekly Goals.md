@@ -2,6 +2,18 @@
 share: true  
 ---  
   
+## W47 November 20 - November 24 2023  
+**Goals**   
+- Review status of services.   
+	- Datadog [Link](https://app.datadoghq.eu/services?query=-type%3Adb&env=prod&sort=requestRate)   
+	- Push teams to review SLOs  
+- Read up on RACI matrix  
+- Review 20/80 rule for PR reviews  
+- Book 1-1s  
+  
+**Reflection on week**  
+  
+  
 ## W46 November 13 - November 17 2023  
 **Goals**   
 - Review 2024 roadmaps  
@@ -189,10 +201,6 @@ Still haven't booked meetings, but plan on starting this next week.
 - Was able to take a decision on the future of ML and the work needed to get live and operational in prod. Sadly we decided to park this initiative due to the work required from other teams and no real obvious improvements.  
 - TakeCare Cal integration work still on-going. Could this be the rebirth of project hydra???  
   
-  
-  
-  
-  
 ## W27 July 03 - July 07 2023  
 **Goals**  
 - Present some new ideas to CAM for work streams  
@@ -208,7 +216,4 @@ Spent some time going through Clinician Core miro board to answer any open quest
   
 Started formalising how we want to present our business case for why we want to continue CP1 migration work. Not sure of the best strategy yet, maybe an ADR. Will bring it up more in following meetings with tech management.  
   
-Started working on my career matrix to define what I actually do and areas to improve on.  
-  
-  
-  
+Started working on my career matrix to define what I actually do and areas to improve on.
