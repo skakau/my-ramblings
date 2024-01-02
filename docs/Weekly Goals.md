@@ -1,6 +1,44 @@
 ---  
 share: true  
 ---  
+- Patient Form Editor  
+## W52 December 25 - December 29 2023  
+**Goals**   
+- Investigate Bug Support Tickets assigned to Patient Engagement  
+  
+**Reflection on week**  
+  
+  
+## W51 December 18 - December 22 2023  
+**Goals**   
+- 1:1 Week before Christmas Vacations.  
+- Look into outstanding issues with SveID and Sambi  
+- Web Infra WoW with key stakeholders  
+  
+**Reflection on week**  
+  
+  
+## W50 December 11 - December 15 2023  
+**Goals**   
+- Look into NLL / Sambi integration  
+  
+  
+**Reflection on week**  
+  
+  
+## W49 December 04 - December 08 2023  
+**Goals**   
+- Continue with Blackbeards key metrics workshop  
+  
+**Reflection on week**  
+  
+  
+## W48 November 27 - December 01 2023  
+**Goals**   
+- Continue with Blackbeards key metrics workshop  
+  
+**Reflection on week**  
+  
   
 ## W47 November 20 - November 24 2023  
 **Goals**   
