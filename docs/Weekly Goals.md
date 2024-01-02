@@ -21,6 +21,7 @@ share: true
 ## W50 December 11 - December 15 2023  
 **Goals**   
 - Look into NLL / Sambi integration  
+- Work on building your knowledge base on Project Precious  
   
   
 **Reflection on week**  
@@ -29,6 +30,8 @@ share: true
 ## W49 December 04 - December 08 2023  
 **Goals**   
 - Continue with Blackbeards key metrics workshop  
+- Clinician Core Team Day.  
+- Check on-call schedules  
   
 **Reflection on week**  
   
@@ -36,6 +39,7 @@ share: true
 ## W48 November 27 - December 01 2023  
 **Goals**   
 - Continue with Blackbeards key metrics workshop  
+- Follow up on Patient Form questions from Patient App  
   
 **Reflection on week**  
   
